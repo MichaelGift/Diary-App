@@ -1,3 +1,5 @@
+[![Scan with Detekt](https://github.com/MichaelGift/Diary-App/actions/workflows/detekt.yml/badge.svg)](https://github.com/MichaelGift/Diary-App/actions/workflows/detekt.yml)
+
 # 📓 JournalX - Your Fast & Elegant Journaling App 🚀
 
 # Embrace the Joy of Journaling! 📔✨
